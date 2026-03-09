@@ -42,19 +42,16 @@
 <a href="https://instagram.com/the_daksh.vasani_" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
+  
 <a href="https://linkedin.com/in/daksh-vasani-553b13307" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
+  
 <a href="mailto:dakshvasani2510@gmail.com" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
