@@ -69,9 +69,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VASANI007&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VASANI007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASANI007&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASANI007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,9 +122,13 @@ Recommendation system suggesting movies based on user preferences.
 
 <p align="center">
 
+<a href="https://github.com/VASANI007/Professional-Coding">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Professional-Coding&theme=tokyonight"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=codewithdv&theme=tokyonight"/>
+<a href="https://github.com/VASANI007">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=VASANI007&theme=tokyonight"/>
+</a>
 
 </p>
 
@@ -196,5 +200,5 @@ Always open to learning, collaboration, and building data-driven solutions.
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=170&section=footer&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
 </p>
