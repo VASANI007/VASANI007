@@ -42,11 +42,11 @@
 <a href="https://instagram.com/the_daksh.vasani_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
 </a>
-</t>
+&nbsp;
 <a href="https://linkedin.com/in/daksh-vasani-553b13307">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
-</t>
+&nbsp;
 <a href="mailto:dakshvasani2510@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
@@ -70,7 +70,7 @@
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=VASANI007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASANI007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -125,7 +125,7 @@ Recommendation system suggesting movies based on user preferences.
 <a href="https://github.com/VASANI007/Professional-Coding">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Professional-Coding&theme=tokyonight"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/VASANI007">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=VASANI007&theme=tokyonight"/>
 </a>
