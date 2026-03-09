@@ -42,11 +42,11 @@
 <a href="https://instagram.com/the_daksh.vasani_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
 </a>
-
+</t>
 <a href="https://linkedin.com/in/daksh-vasani-553b13307">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
-
+</t>
 <a href="mailto:dakshvasani2510@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
@@ -69,9 +69,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VASANI007&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VASANI007&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASANI007&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASANI007&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 
 </p>
 
@@ -122,9 +122,9 @@ Recommendation system suggesting movies based on user preferences.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Netflix-Data-Analysis&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Professional-Coding&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Heart-Disease-Prediction&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=codewithdv&theme=tokyonight"/>
 
 </p>
 
