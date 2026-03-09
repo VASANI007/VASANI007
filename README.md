@@ -37,7 +37,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="center" style="text-decoration:none;">
 
 <a href="https://instagram.com/the_daksh.vasani_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
