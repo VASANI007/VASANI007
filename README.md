@@ -37,9 +37,21 @@
 
 # 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/the_daksh.vasani_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-vasani-553b13307)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dakshvasani2510@gmail.com)
+<p align="center">
+
+<a href="https://instagram.com/the_daksh.vasani_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/daksh-vasani-553b13307">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dakshvasani2510@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -60,6 +72,69 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VASANI007&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASANI007&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Featured Data Science Projects
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Exploring+Data+Science+Projects;Machine+Learning+Experiments;Turning+Data+Into+Insights"/>
+</p>
+
+### 📊 Netflix Data Analysis
+Exploratory Data Analysis on Netflix dataset to discover trends in movies and TV shows.
+
+⚙ Tools: Python • Pandas • Matplotlib • Seaborn
+
+---
+
+### ❤️ Heart Disease Prediction
+Machine learning model to predict heart disease based on medical attributes.
+
+⚙ Tools: Python • Scikit-learn • Pandas
+
+---
+
+### 📈 Stock Market Analysis
+Analyzed historical stock market datasets and visualized trends.
+
+⚙ Tools: Python • Pandas • Plotly
+
+---
+
+### 🛍 Customer Churn Prediction
+Predicting customers likely to leave a service using machine learning algorithms.
+
+⚙ Tools: Python • Machine Learning • Scikit-learn
+
+---
+
+### 🎬 Movie Recommendation System
+Recommendation system suggesting movies based on user preferences.
+
+⚙ Tools: Python • Machine Learning
+
+---
+
+# 📦 Project Showcase
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Netflix-Data-Analysis&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Heart-Disease-Prediction&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VASANI007&theme=tokyo-night"/>
 
 </p>
 
@@ -93,22 +168,6 @@
 
 ---
 
-# 📂 Data Science Projects
-
-🔹 **Netflix Data Analysis**  
-Analyzed Netflix dataset using **Pandas and Matplotlib** to discover trends in movies and shows.
-
-🔹 **Heart Disease Prediction**  
-Machine learning model to predict heart disease using **Scikit-learn**.
-
-🔹 **Customer Churn Prediction**  
-Built a model to identify customers likely to leave a service.
-
-🔹 **Stock Price Analysis**  
-Analyzed historical stock data and visualized market trends.
-
----
-
 # 📚 Currently Learning
 
 - Advanced Machine Learning  
@@ -127,9 +186,14 @@ Analyzed historical stock data and visualized market trends.
 
 ---
 
-⭐ From [VASANI007](https://github.com/VASANI007)
+⭐ Thanks for visiting my profile!
 
-<!-- Footer Banner -->
+If you like my work, consider giving a ⭐ to my repositories.  
+Always open to learning, collaboration, and building data-driven solutions.
+
+🚀 Let's explore the world of Data Science together!
+
+---
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
