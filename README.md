@@ -38,8 +38,8 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/the_daksh.vasani_"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/daksh-vasani-553b13307"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/the_daksh.vasani_"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/daksh-vasani-553b13307"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="mailto:dakshvasani2510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -112,12 +112,12 @@ Recommendation system suggesting movies based on user preferences.
 
 <p align="center">
 
-<a href="https://github.com/VASANI007/Professional-Coding" style="text-decoration:none;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Professional-Coding&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/VASANI007/Professional-Coding" style="display:inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Professional-Coding&theme=tokyonight&hide_border=true" style="display:block;"/>
 </a>
-&nbsp;
-<a href="https://github.com/VASANI007" style="text-decoration:none;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=VASANI007&theme=tokyonight&hide_border=true"/>
+&nbsp;&nbsp;
+<a href="https://github.com/VASANI007" style="display:inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=VASANI007&theme=tokyonight&hide_border=true" style="display:block;"/>
 </a>
 
 </p>
