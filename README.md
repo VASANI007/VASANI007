@@ -38,20 +38,15 @@
 # 🌐 Connect With Me
 
 <p align="center">
+<p align="center">
 
-<a href="https://instagram.com/the_daksh.vasani_" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-  
-<a href="https://linkedin.com/in/daksh-vasani-553b13307" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-  
-<a href="mailto:dakshvasani2510@gmail.com" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/the_daksh.vasani_)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-vasani-553b13307)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dakshvasani2510@gmail.com)
+
+</p>
 </p>
 
 ---
