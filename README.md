@@ -117,8 +117,8 @@ Recommendation system suggesting movies based on user preferences.
 </a>
 &nbsp;&nbsp;
 
-<a href="https://github.com/VASANI007/Heart-Disease-Prediction-App">
-<img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="180">
+<a href="https://github.com/VASANI007/Heart-Disease-Prediction-App" style="display:inline-block;">
+<img src="https://cdn-icons-png.flaticon.com/512/1594/1594631.png" width="200" style="display:block;"/>
 </a>
 
 
