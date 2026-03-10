@@ -113,7 +113,7 @@ Recommendation system suggesting movies based on user preferences.
 <p align="center">
 
 <a href="https://github.com/VASANI007/Netflix-Data-Analysis" style="display:inline-block;">
-<img src="https://raw.githubusercontent.com/VASANI007/Netflix-Data-Analysis/main/Netflix-Data-Analysis/images/netflix.png" width="400" style="display:block;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" width="200" style="display:block;"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/VASANI007" style="display:inline-block;">
