@@ -112,8 +112,8 @@ Recommendation system suggesting movies based on user preferences.
 
 <p align="center">
 
-<a href="https://github.com/VASANI007/Professional-Coding" style="display:inline-block;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Professional-Coding&theme=tokyonight&hide_border=true" style="display:block;"/>
+<a href="https://github.com/VASANI007/Netflix-Data-Analysis" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/VASANI007/Netflix-Data-Analysis/main/Netflix-Data-Analysis/images/netflix.png" width="400" style="display:block;"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/VASANI007" style="display:inline-block;">
