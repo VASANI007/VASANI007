@@ -66,6 +66,26 @@
 </p>
 
 ---
+<p align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="90">
+
+</p>
+
+<h3 align="center">Heart Disease Prediction App</h3>
+
+<p align="center">
+Machine Learning project to predict heart disease risk using medical data.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/VASANI007/Heart-Disease-Prediction-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Heart-Disease-Prediction-App&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+---
 
 # 🚀 Featured Data Science Projects
 
@@ -116,8 +136,8 @@ Recommendation system suggesting movies based on user preferences.
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" width="200" style="display:block;"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/VASANI007" style="display:inline-block;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=VASANI007&theme=tokyonight&hide_border=true" style="display:block;"/>
+<a href="https://github.com/VASANI007/Heart-Disease-Prediction-App" style="display:inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VASANI007&repo=Heart-Disease-Prediction-App&theme=tokyonight&hide_border=true" style="display:block;"/>
 </a>
 
 </p>
