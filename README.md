@@ -122,7 +122,7 @@ Recommendation system suggesting movies based on user preferences.
 </a>
 &nbsp;&nbsp;
 
-<a href="https://github.com/VASANI007/customer-churn-prediction-advanced" style="display:inline-block;">
+<a href="https://github.com/VASANI007/Customer-Churn-Prediction" style="display:inline-block;">
 <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="200" style="display:block;"/>
 </a>
 
