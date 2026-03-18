@@ -128,7 +128,7 @@ Recommendation system suggesting movies based on user preferences.
 &nbsp;&nbsp;
 
 <a href="https://github.com/VASANI007/Stock-Market-Analysis-Prediction-System">
-  <img src="https://cdn-icons-png.flaticon.com/512/6065/6065392.png" width="150"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6065/6065392.png" width="200" style="display:block;"/>
 </a>
 
 
