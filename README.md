@@ -110,29 +110,25 @@ Recommendation system suggesting movies based on user preferences.
 
 # 📦 Project Showcase
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/VASANI007/Netflix-Data-Analysis" style="display:inline-block;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" width="200" style="display:block;"/>
+<a href="https://github.com/VASANI007/Netflix-Data-Analysis">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" width="180" style="margin:10px;"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://github.com/VASANI007/Heart-Disease-Prediction-App" style="display:inline-block;">
-<img src="https://cdn-icons-png.flaticon.com/512/1594/1594631.png" width="200" style="display:block;"/>
+<a href="https://github.com/VASANI007/Heart-Disease-Prediction-App">
+  <img src="https://cdn-icons-png.flaticon.com/512/1594/1594631.png" width="180" style="margin:10px;"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://github.com/VASANI007/Customer-Churn-Prediction" style="display:inline-block;">
-<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="200" style="display:block;"/>
+<a href="https://github.com/VASANI007/Customer-Churn-Prediction">
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="180" style="margin:10px;"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://github.com/VASANI007/Stock-Market-Analysis-Prediction-System">
-  <img src="https://cdn-icons-png.flaticon.com/512/6065/6065392.png" width="200" style="display:block;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6065/6065392.png" width="180" style="margin:10px;"/>
 </a>
 
-
-</p>
+</div>
 
 ---
 
