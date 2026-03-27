@@ -116,7 +116,8 @@ Recommendation system suggesting movies based on user preferences.
 <a href="https://github.com/VASANI007/Heart-Disease-Prediction-App"><img src="https://cdn-icons-png.flaticon.com/512/1594/1594631.png" width="150"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Customer-Churn-Prediction"><img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="150"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Stock-Market-Analysis-Prediction-System"><img src="https://cdn-icons-png.flaticon.com/512/6065/6065392.png" width="150"></a>&nbsp;&nbsp;
-<a href="https://github.com/VASANI007/Customer-Segmentation-and-Target-Marketing-Model-using-Clustering-Techniques"><img src="https://cdn-icons-png.flaticon.com/512/11545/11545070.png" width="150"></a>
+<a href="https://github.com/VASANI007/Customer-Segmentation-and-Target-Marketing-Model-using-Clustering-Techniques"><img src="https://cdn-icons-png.flaticon.com/512/11545/11545070.png" width="150"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-"><img src="https://cdn-icons-png.flaticon.com/512/9011/9011686.png" width="150"></a>
 </div>
 
 ---
