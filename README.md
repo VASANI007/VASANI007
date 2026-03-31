@@ -58,13 +58,9 @@
 # 📊 Data Science Dashboard
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VASANI007&show_icons=true&theme=tokyonight&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASANI007&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=VASANI007&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASANI007&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
 ---
 
 # 🚀 Featured Data Science Projects
