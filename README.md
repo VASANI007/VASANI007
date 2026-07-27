@@ -102,7 +102,7 @@ Recommendation system suggesting movies based on user preferences.
 <div align="center">
 
 <a href="https://github.com/VASANI007/CyberMind-AI"><img src="https://cdn-icons-png.flaticon.com/512/6071/6071531.png" width="130"></a>&nbsp;&nbsp;
-<a href="https://github.com/VASANI007/ML-Studio-Pro-AutoML-Data-Cleaning-Model-Export-System"><img src="https://cdn-icons-png.flaticon.com/512/5610/5610174.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/ML-Studio-Pro-AutoML-Data-Cleaning-Model-Export-System"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103675.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Multi-Asset-Price-Prediction-System-using-Machine-Learning"><img src="https://cdn-icons-png.flaticon.com/512/17072/17072324.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Stock-Market-Analysis-Prediction-System"><img src="https://cdn-icons-png.flaticon.com/512/6065/6065392.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Customer-Segmentation-and-Target-Marketing-Model-using-Clustering-Techniques"><img src="https://cdn-icons-png.flaticon.com/512/11545/11545070.png" width="130"></a>&nbsp;&nbsp;
