@@ -56,7 +56,7 @@
 ---
 
 
-# 🚀 Featured Data Science Projects
+# 🚀 Data Science Projects
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Exploring+Data+Science+Projects;Machine+Learning+Experiments;Turning+Data+Into+Insights"/>
@@ -101,9 +101,9 @@ Recommendation system suggesting movies based on user preferences.
 
 <div align="center">
 
-<a href="https://github.com/VASANI007/Netflix-Data-Analysis"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" width="130"></a>&nbsp;&nbsp;
-<a href="https://github.com/VASANI007/Heart-Disease-Prediction-App"><img src="https://cdn-icons-png.flaticon.com/512/1594/1594631.png" width="130"></a>&nbsp;&nbsp;
-<a href="https://github.com/VASANI007/Customer-Churn-Prediction"><img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/CyberMind-AI"><img src="https://cdn-icons-png.flaticon.com/512/6071/6071531.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/ML-Studio-Pro-AutoML-Data-Cleaning-Model-Export-System"><img src="https://cdn-icons-png.flaticon.com/512/5610/5610174.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/Multi-Asset-Price-Prediction-System-using-Machine-Learning"><img src="https://cdn-icons-png.flaticon.com/512/17072/17072324.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Stock-Market-Analysis-Prediction-System"><img src="https://cdn-icons-png.flaticon.com/512/6065/6065392.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Customer-Segmentation-and-Target-Marketing-Model-using-Clustering-Techniques"><img src="https://cdn-icons-png.flaticon.com/512/11545/11545070.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Gold-Silver-Price-Prediction-ML-System"><img src="https://cdn-icons-png.flaticon.com/512/9011/9011686.png" width="130"></a>
