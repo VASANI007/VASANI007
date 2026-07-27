@@ -55,45 +55,30 @@
 
 ---
 
-
-# 🚀 Data Science Projects
+# 🚀 Future Data Science Projects
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Exploring+Data+Science+Projects;Machine+Learning+Experiments;Turning+Data+Into+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions;Data+Science+%7C+Machine+Learning+%7C+AI;Turning+Ideas+Into+Intelligent+Applications"/>
 </p>
 
-### 📊 Netflix Data Analysis
-Exploratory Data Analysis on Netflix dataset to discover trends in movies and TV shows.
+### 🏥 MediMind AI
+An AI-powered healthcare platform for intelligent disease prediction, symptom analysis, medical insights, and health recommendations using Machine Learning.
 
-⚙ Tools: Python • Pandas • Matplotlib • Seaborn
-
----
-
-### ❤️ Heart Disease Prediction
-Machine learning model to predict heart disease based on medical attributes.
-
-⚙ Tools: Python • Scikit-learn • Pandas
+⚙ **Tools:** Python • Machine Learning • Scikit-learn • Pandas • Streamlit
 
 ---
 
-### 📈 Stock Market Analysis
-Analyzed historical stock market datasets and visualized trends.
+### 🔋 VoltMind AI
+A smart Battery Management System that monitors battery health, predicts performance, detects faults, and provides AI-driven analytics through an interactive dashboard.
 
-⚙ Tools: Python • Pandas • Plotly
-
----
-
-### 🛍 Customer Churn Prediction
-Predicting customers likely to leave a service using machine learning algorithms.
-
-⚙ Tools: Python • Machine Learning • Scikit-learn
+⚙ **Tools:** Python • Machine Learning • Streamlit • Plotly • SQLite
 
 ---
 
-### 🎬 Movie Recommendation System
-Recommendation system suggesting movies based on user preferences.
+### 🤖 ISHREE AI
+A next-generation AI assistant platform designed to integrate intelligent automation, data analysis, productivity tools, and conversational AI into a single ecosystem.
 
-⚙ Tools: Python • Machine Learning
+⚙ **Tools:** Python • AI • Machine Learning • NLP • Streamlit
 
 ---
 
@@ -102,8 +87,8 @@ Recommendation system suggesting movies based on user preferences.
 <div align="center">
 
 <a href="https://github.com/VASANI007/CyberMind-AI"><img src="https://cdn-icons-png.flaticon.com/512/6071/6071531.png" width="130"></a>&nbsp;&nbsp;
-<a href="https://github.com/VASANI007/ML-Studio-Pro-AutoML-Data-Cleaning-Model-Export-System"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103675.png" width="130"></a>&nbsp;&nbsp;
-<a href="https://github.com/VASANI007/Multi-Asset-Price-Prediction-System-using-Machine-Learning"><img src="https://cdn-icons-png.flaticon.com/512/17072/17072324.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/ML-Studio-Pro-AutoML-Data-Cleaning-Model-Export-System"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/Multi-Asset-Price-Prediction-System-using-Machine-Learning"><img src="https://cdn-icons-png.flaticon.com/512/17774/17774283.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Stock-Market-Analysis-Prediction-System"><img src="https://cdn-icons-png.flaticon.com/512/6065/6065392.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Customer-Segmentation-and-Target-Marketing-Model-using-Clustering-Techniques"><img src="https://cdn-icons-png.flaticon.com/512/11545/11545070.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Gold-Silver-Price-Prediction-ML-System"><img src="https://cdn-icons-png.flaticon.com/512/9011/9011686.png" width="130"></a>
