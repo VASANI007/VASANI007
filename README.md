@@ -77,10 +77,10 @@ A next-generation AI assistant platform designed to integrate intelligent automa
 <div align="center">
 
 <a href="https://github.com/VASANI007/CyberMind-AI"><img src="https://cdn-icons-png.flaticon.com/512/6071/6071531.png" width="130"></a>&nbsp;&nbsp;
-<a href="https://github.com/VASANI007/ML-Studio-Pro-AutoML-Data-Cleaning-Model-Export-System"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/ISHREE-AI"><img src="https://cdn-icons-png.flaticon.com/512/2814/2814666.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Multi-Asset-Price-Prediction-System-using-Machine-Learning"><img src="https://cdn-icons-png.flaticon.com/512/17774/17774283.png" width="130"></a>&nbsp;&nbsp;
-<a href="https://github.com/VASANI007/Stock-Market-Analysis-Prediction-System"><img src="https://cdn-icons-png.flaticon.com/512/6065/6065392.png" width="130"></a>&nbsp;&nbsp;
-<a href="https://github.com/VASANI007/Customer-Segmentation-and-Target-Marketing-Model-using-Clustering-Techniques"><img src="https://cdn-icons-png.flaticon.com/512/11545/11545070.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/MediMind-AI"><img src="https://cdn-icons-png.flaticon.com/512/6283/6283244.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/ML-Studio-Pro-AutoML-Data-Cleaning-Model-Export-System"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Gold-Silver-Price-Prediction-ML-System"><img src="https://cdn-icons-png.flaticon.com/512/9011/9011686.png" width="130"></a>
 </div>
 
