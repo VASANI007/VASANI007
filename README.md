@@ -57,9 +57,6 @@
 
 # 🚀 Future Data Science Projects
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions;Data+Science+%7C+Machine+Learning+%7C+AI;Turning+Ideas+Into+Intelligent+Applications"/>
-</p>
 
 ### 🏥 MediMind AI
 An AI-powered healthcare platform for intelligent disease prediction, symptom analysis, medical insights, and health recommendations using Machine Learning.
