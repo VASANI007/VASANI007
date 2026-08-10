@@ -68,13 +68,6 @@ An AI-powered healthcare platform for intelligent disease prediction, symptom an
 
 ---
 
-### 🔋 VoltMind AI
-A smart Battery Management System that monitors battery health, predicts performance, detects faults, and provides AI-driven analytics through an interactive dashboard.
-
-⚙ **Tools:** Python • Machine Learning • Streamlit • Plotly • SQLite
-
----
-
 ### 🤖 ISHREE AI
 A next-generation AI assistant platform designed to integrate intelligent automation, data analysis, productivity tools, and conversational AI into a single ecosystem.
 
