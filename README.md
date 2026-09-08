@@ -58,7 +58,7 @@
 # 🚀 Future Data Science Projects
 
 
-### 🏥 MediMind AI
+### 🏥 DocMindX AI
 An AI-powered healthcare platform for intelligent disease prediction, symptom analysis, medical insights, and health recommendations using Machine Learning.
 
 ⚙ **Tools:** Python • Machine Learning • Scikit-learn • Pandas • Streamlit
