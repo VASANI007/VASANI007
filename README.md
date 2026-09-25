@@ -76,7 +76,7 @@ A next-generation AI assistant platform designed to integrate intelligent automa
 
 <div align="center">
 
-<a href="https://github.com/VASANI007/CyberMind-AI"><img src="https://cdn-icons-png.flaticon.com/512/6071/6071531.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/CyberMind-AI"><img src="https://github.com/VASANI007/CyberMind-AI/blob/main/static/logo.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/ISHREE-AI"><img src="https://cdn-icons-png.flaticon.com/512/2814/2814666.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/Multi-Asset-Price-Prediction-System-using-Machine-Learning"><img src="https://cdn-icons-png.flaticon.com/512/17774/17774283.png" width="130"></a>&nbsp;&nbsp;
 <a href="https://github.com/VASANI007/DocMindX-AI"><img src="https://github.com/VASANI007/DocMindX-AI/blob/main/assets/logo/logo_dark.png" width="130"></a>&nbsp;&nbsp;
