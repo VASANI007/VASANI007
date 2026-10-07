@@ -1,43 +1,156 @@
-<h1 align="center">Daksh Vasani</h1>
-<p align="center"><strong>M.Sc. Data Science Student · Python Developer · Machine Learning Enthusiast</strong></p>
-<p align="center">Building data-driven ideas, machine learning projects, and useful AI tools.</p>
-
+<!-- 🌌 Animated Header Banner -->
 <p align="center">
-  <a href="https://vasani007.github.io/VASANI007/"><strong>🌐 OPEN MY INTERACTIVE PORTFOLIO</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/VASANI007?tab=repositories">Explore GitHub Projects</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Daksh%20Vasani&fontSize=50&fontAlignY=35&animation=fadeIn&desc=MSc%20Data%20Science%20Student%20|%20Machine%20Learning%20Enthusiast&descAlignY=55&fontColor=ffffff"/>
+</p>
+
+<!-- ⌨ Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;AI+Learner;Data+Analytics+Explorer"/>
 </p>
 
 ---
 
-## About Me
+# 👀 Profile Views
 
-I am pursuing an **M.Sc. in Data Science** and enjoy using Python, data analysis, machine learning, and modern web technologies to build practical projects. I learn by experimenting, building, and improving each project.
-
-## Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [CyberMind AI](https://github.com/VASANI007/CyberMind-AI) | Cybersecurity threat-analysis dashboard concept | Python, Streamlit, Scikit-learn |
-| [ISHREE AI](https://github.com/VASANI007/ISHREE-AI) | Personal AI assistant and automation ecosystem | Python, AI Agents, NLP |
-| [DocMindX AI](https://github.com/VASANI007/DocMindX-AI) | Healthcare-focused AI and medical information project | Python, ML, Streamlit |
-| [Multi-Asset Price Prediction](https://github.com/VASANI007/Multi-Asset-Price-Prediction-System-using-Machine-Learning) | Machine learning project for asset-price prediction | Python, Machine Learning |
-| [ML Studio Pro](https://github.com/VASANI007/ML-Studio-Pro-AutoML-Data-Cleaning-Model-Export-System) | AutoML, data-cleaning, and model-export tools | Python, ML |
-| [Gold-Silver Price Prediction](https://github.com/VASANI007/Gold-Silver-Price-Prediction-ML-System) | Prediction system for gold and silver prices | Python, Machine Learning |
-
-## Skills & Tools
-
-**Languages:** Python, R, SQL, HTML, CSS, JavaScript  
-**Data & AI:** Pandas, Scikit-learn, Data Analysis, Data Visualization, Machine Learning  
-**Development:** Django, Streamlit, REST APIs, MySQL, MongoDB, Git, GitHub
-
-## Connect
-
-- **GitHub:** [VASANI007](https://github.com/VASANI007)
-- **LinkedIn:** [Daksh Vasani](https://linkedin.com/in/daksh-vasani-553b13307)
-- **Instagram:** [@the_daksh.vasani_](https://instagram.com/the_daksh.vasani_)
-- **Email:** [dakshvasani2510@gmail.com](mailto:dakshvasani2510@gmail.com)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=VASANI007&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-<p align="center">The interactive portfolio runs as a website through GitHub Pages. GitHub README files do not execute embedded JavaScript or custom CSS, so use the portfolio link above for animations, filters, theme switching, and live GitHub statistics.</p>
+# 💫 About Me
+
+🎓 Currently pursuing **M.Sc in Data Science**
+
+📊 Interested in:
+
+- Data Analysis  
+- Machine Learning  
+- Artificial Intelligence  
+- Data Visualization  
+
+💻 I enjoy working with **Python and modern data science tools** to analyze datasets and build predictive models.
+
+🚀 My goal is to **transform raw data into meaningful insights and intelligent systems**.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/the_daksh.vasani_"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/daksh-vasani-553b13307"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="mailto:dakshvasani2510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 💻 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,django,mysql,mongodb,git,github,html,css,js"/>
+
+</p>
+
+---
+
+# 🚀 Future Data Science Projects
+
+
+### 🏥 DocMindX AI
+An AI-powered healthcare platform for intelligent disease prediction, symptom analysis, medical insights, and health recommendations using Machine Learning.
+
+⚙ **Tools:** Python • Machine Learning • Scikit-learn • Pandas • Streamlit
+
+---
+
+### 🤖 ISHREE AI
+A next-generation AI assistant platform designed to integrate intelligent automation, data analysis, productivity tools, and conversational AI into a single ecosystem.
+
+⚙ **Tools:** Python • AI • Machine Learning • NLP • Streamlit
+
+---
+
+# 📦 Project Showcase
+
+<div align="center">
+
+<a href="https://github.com/VASANI007/CyberMind-AI"><img src="https://github.com/VASANI007/CyberMind-AI/blob/main/static/logo.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/ISHREE-AI"><img src="https://cdn-icons-png.flaticon.com/512/2814/2814666.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/Multi-Asset-Price-Prediction-System-using-Machine-Learning"><img src="https://cdn-icons-png.flaticon.com/512/17774/17774283.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/DocMindX-AI"><img src="https://github.com/VASANI007/DocMindX-AI/blob/main/assets/logo/logo_dark.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/ML-Studio-Pro-AutoML-Data-Cleaning-Model-Export-System"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png" width="130"></a>&nbsp;&nbsp;
+<a href="https://github.com/VASANI007/Gold-Silver-Price-Prediction-ML-System"><img src="https://cdn-icons-png.flaticon.com/512/9011/9011686.png" width="130"></a>
+</div>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VASANI007&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=VASANI007&theme=tokyonight"/>
+</p>
+
+---
+
+# 🚀 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VASANI007&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧠 Machine Learning Developer Stats
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VASANI007&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VASANI007&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Machine Learning  
+- Deep Learning  
+- Data Visualization  
+- Kaggle Competitions  
+- Big Data Technologies
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.  
+Always open to learning, collaboration, and building data-driven solutions.
+
+🚀 Let's explore the world of Data Science together!
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=170&section=footer&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+</p>
